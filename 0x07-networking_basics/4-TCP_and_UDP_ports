@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+#This is file lists all listening sockets with their respective PID
+
+sudo netstat -tupln
